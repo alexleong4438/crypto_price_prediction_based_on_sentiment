@@ -1,6 +1,6 @@
 # Crypto Price Prediction based on Twitter Influencer Sentiment Analysis.
 
-This project is a part of the CDS590 course, focusing on the analysis of social media influencers using network analysis techniques. The primary objective is to construct and visualize a directed graph that represents the relationships between influencers based on their follower counts.
+This project is a part of the my research study, focusing on the analysis of social media influencers using network analysis techniques. The primary objective is to construct and visualize a directed graph that represents the relationships between influencers based on their follower counts.
 
 ## Contents
 
